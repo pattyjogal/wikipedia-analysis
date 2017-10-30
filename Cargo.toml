@@ -1,0 +1,8 @@
+[package]
+name = "wildcard_analysis"
+version = "0.1.0"
+authors = ["Patrick Gallagher <patrickj@cpgallagher.com>"]
+
+[dependencies]
+quick-xml = "0.9.4"
+regex = "0.2"
